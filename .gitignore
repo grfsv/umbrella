@@ -1,7 +1,6 @@
 .pio
-.data
+data
 .vscode
 
 
 .DS_Store
-
